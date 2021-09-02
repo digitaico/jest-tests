@@ -1,12 +1,12 @@
 {
-  "name": "tests",
+  "name": "Jest Tests",
   "version": "1.0.0",
-  "description": "",
+  "description": "Jest tests: learn",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
-  "author": "",
+  "author": "Jorge Eduardo Ardila",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^27.0.1",
